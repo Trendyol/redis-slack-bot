@@ -1,3 +1,5 @@
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Trendyol/redis-slack-bot/badge)](https://scorecard.dev/viewer/?uri=github.com/Trendyol/redis-slack-bot)
 # Redis Slack Bot
 
 ## Overview 
